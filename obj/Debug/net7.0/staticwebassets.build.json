@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M1XrnvRZ/eDsL3VtW09QRJHTXikp656eoPVAie/IPsA=",
+  "Source": "TimeMicroservice",
+  "BasePath": "_content/TimeMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
