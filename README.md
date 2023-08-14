@@ -1,5 +1,5 @@
 # Time Microservice
-This is just a simple API web which was developed using ASP.NET Core MVC that returns an UTC Date format and an UNIX time format as string. The result is shown in format JSON.
+This is just a simple API web which was developed using ASP.NET Core MVC that returns an UTC Date format and an UNIX time format as string. The result is shown in a JSON format.
 
 ## How to use it?
 The API use a GET method to retrieve data from the URL and it's queryparams, which in this case can be a null object or a string with a `yyyy-dd-mm` format. In case you sent an empty/null object the result is going to be the current date in UTC and UNIX format, also, if you sent a valid string the API will return the repective date on the mentioned formats.
